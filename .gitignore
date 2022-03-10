@@ -1,0 +1,17 @@
+# allure
+tmp/
+**/node_modules/
+node_modules/
+
+#webdriver
+**/geckodriver.log
+
+#IDEA
+**/.idea
+/.idea/vcs.xml
+
+# python
+venv/
+
+# pytest
+.pytest_cache/
