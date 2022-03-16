@@ -7,7 +7,7 @@
 #### Print usage --help
 print_usage() {
   echo "Usage:";
-  echo "-m <test_tags> [test groups] (default is all) [possible values: login_prez_test, login_prez_test]";
+  echo "-m <test_tags> [test groups] (default is all) [possible values: login_prac_test, login_heroku_test]";
   echo "-b <browser> [browser] (default is chrome) [possible values: firefox, edge]";
   echo "-h <help> [display help]"
 }

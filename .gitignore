@@ -11,7 +11,7 @@ node_modules/
 /.idea/vcs.xml
 
 # python
-venv/
+**/venv/
 
 # pytest
 .pytest_cache/
